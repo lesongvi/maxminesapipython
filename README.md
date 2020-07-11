@@ -22,3 +22,5 @@ client = MaxMinesPython(secret_key)
 
 client.post("/links/create", {"url": "https://example.com", "hashes": 1024})
 ```
+## Góp ý
+[get in touch](https://maxmines.com/contact)
